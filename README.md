@@ -8,4 +8,7 @@ This projects demostrates how you can have a multiple line UILabel collapse and 
         tableView.endUpdates()
 ```
 
-I am including the whole project here because there are many small mistakes you can make so that this doesn't work.  (Many newer developers fall back to computing font metrics manually, or hard coded numbers because they assume it cannot be done.
+I am including the whole project here because there are many small mistakes you can make so that this doesn't work.  (Many newer developers fall back to computing font metrics manually, or hard coded numbers because they assume it can't be done.) 
+
+![demo](demo.gif)
+
