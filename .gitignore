@@ -1,0 +1,5 @@
+xcuserdata
+.*cache*
+*.log
+Pods/
+.DS_Store
